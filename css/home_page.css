@@ -1,0 +1,22 @@
+﻿ul
+{
+list-style-type:none;
+float:left;
+width:100%;
+padding:0;
+margin:0;
+overflow:hidden;
+}
+a
+{
+display:inline;
+float:left;
+width:290px;
+text-decoration:none;
+color:white;
+background-color:green;
+padding:0.2em 0.6em;
+border-right:1px gold;
+}
+
+a:hover {background-color:#FFD700;}
